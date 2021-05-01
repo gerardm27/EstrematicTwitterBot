@@ -1,0 +1,7 @@
+﻿  converter.cpp
+E:\Hobbies\Programming For Fun\Estrematic\Estrematic\converter.cpp(14,20): warning C4018: '<': no coinciden signed/unsigned
+  main.cpp
+E:\Hobbies\Programming For Fun\Estrematic\Estrematic\main.cpp(27,23): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+E:\Hobbies\Programming For Fun\Estrematic\Estrematic\converter.cpp(168): warning C4715: 'converter::estrematize': no todas las rutas de acceso de control devuelven un valor
+  Estrematic.vcxproj -> E:\Hobbies\Programming For Fun\Estrematic\Debug\Estrematic.exe
