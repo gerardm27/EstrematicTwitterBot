@@ -1,0 +1,9 @@
+﻿  converter.cpp
+E:\ProForFun\Twitter\EstrematicTwitterBot\Estrematic\Estrematic\converter.cpp(37,19): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  main.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+E:\ProForFun\Twitter\EstrematicTwitterBot\Estrematic\Estrematic\converter.cpp(168): warning C4715: 'converter::estrematize': no todas las rutas de acceso de control devuelven un valor
+  All 197 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Estrematic.vcxproj -> E:\ProForFun\Twitter\EstrematicTwitterBot\Estrematic\x64\Release\Estrematic.exe

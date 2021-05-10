@@ -1,19 +1,16 @@
 #include "converter.h"
 
-int main()
+int main(int argc, char* argv[])
 {
-    cout << "Introdueixi el text a convertir: \n";
+    
     vector<string> text;
     text.clear();
     char currLetter = 'A';
     string currWord;
     bool finished = false;
-    while (cin >> currWord && not finished) {
+    while (not finished && cin >> currWord) {
         
         currLetter = currWord.back();
-        /*
-        Llamar a la conversion mediante converter.h de "text".
-        */
         if (currLetter == '.' || currLetter == '!' || currLetter == '?') {
             finished = true;
             currWord.pop_back();
